@@ -5,6 +5,7 @@ public class gitAppium {
 		
 		
 		System.out.println("Appium Gelistiriceleri"); 
+		System.out.println("Appium Gelistiriceleri2"); 
 
 	}
 
